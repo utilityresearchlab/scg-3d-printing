@@ -4,6 +4,7 @@ This is the research repository for `Designing a Sustainable Material for 3D Pri
 
 The [full publication is freely available here](https://utilityresearchlab.org/assets/research/coffee-3d-printing/dis23-coffee-3d-printing.pdf).
 
+![scgPrinting]
 
 ## Additional Hardware
 A full list of the hardware requirements to build the syringe pump and extrude the SCG material can be found in *Section 4.2 3D Printer Set-Up* of the paper.
@@ -12,3 +13,5 @@ A full list of the hardware requirements to build the syringe pump and extrude t
 ## Citation
 Michael L. Rivera, S. Sandra Bae, and Scott E. Hudson. 2023. Designing a Sustainable Material for 3D Printing with Spent Coffee Grounds. In Proceedings of the 2023 ACM Designing Interactive Systems Conference (DIS '23). Association for Computing Machinery, New York, NY, USA, 294–311. https://doi.org/10.1145/3563657.3595983
 
+
+[scgPrinting]: https://utilityresearchlab.org/assets/research/coffee-3d-printing/img/teaser_coffee-printing-02.png "Example Objects Printed with SCG Material"
